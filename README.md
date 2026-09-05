@@ -1,5 +1,5 @@
 # 💫 About Me:
- HI I am Love Sharma <br> A passionate Javascript and ml developer<br>🔭 I'm currently working on a MERN Stack project<br><br>🌱 I'm currently learning Python,Javascript and its frameworks<br><br>👯 I'm looking to collaborate on Machine Learning and Full stack projects
+ HI I am Love Sharma <br> <br>  A passionate Javascript and ml developer <br><br>🔭 I'm currently working on a MERN Stack project<br><br>🌱 I'm currently learning Python,Javascript and its frameworks<br><br>👯 I'm looking to collaborate on Machine Learning and Full stack projects
 
 
 # 💻 Tech Stack:
