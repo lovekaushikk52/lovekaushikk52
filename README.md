@@ -2,8 +2,6 @@
 
 ### A passionate Javascript and ml developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lovekaushikk52" alt="lovekaushikk52" /></a> </p>
-
 - 🔭 I'm currently working on **a MERN Stack project**
 
 - 🌱 I'm currently learning **Python,Javascript and its frameworks**
