@@ -6,8 +6,7 @@
 
 - 🔭 I'm currently working on **a MERN Stack project**
 
-- 🌱 I'm currently learning **Python,Javascript and its frameworks
-**
+- 🌱 I'm currently learning **Python,Javascript and its frameworks**
 
 - 👯 I'm looking to collaborate on **Machine Learning and Full stack projects**
 
